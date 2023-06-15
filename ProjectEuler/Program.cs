@@ -5,7 +5,7 @@
         //Log.Logger = new LoggerConfiguration()
         //    .ReadFrom.Configuration(Configuration).WriteTo.Console().CreateLogger();
 
-        new Problem1();
+        new Problem2();
 
     }
 }
